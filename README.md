@@ -15,7 +15,7 @@
   <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/paulo-carlos-ferreira-dos-santos/>Paulo Carlos Ferreira dos Santos</a></li>
 </ul>
 
-<h2>Acompanhamento de Tarefas: https://docs.google.com/document/d/1tQu284zb4H75BPVvmHYvKxLIM0q2ro0aXAdbX-oSKcw/edit?usp=sharing</h2>
+<h2>[Acompanhamento de Tarefas](https://docs.google.com/document/d/1tQu284zb4H75BPVvmHYvKxLIM0q2ro0aXAdbX-oSKcw/edit?</h2>
 
 <h2>Descrição</h2>
 <p>O projeto visa a implementação de um processador personalizado que será utilizado em um relógio com as seguintes características:</p>
