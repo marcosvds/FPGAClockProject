@@ -1,4 +1,4 @@
-# FPGAClockProject
+<h1>Projeto 1: Relógio Utilizando um Processador Personalizado</h1>
 
 <h2>Informações Gerais</h2>
 
@@ -14,8 +14,6 @@
 <ul>
   <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/paulo-carlos-ferreira-dos-santos/>Paulo Carlos Ferreira dos Santos</a></li>
 </ul>
-
-<h1>Projeto 1: Relógio Utilizando um Processador Personalizado</h1>
 
 <h2>Descrição</h2>
 <p>O projeto visa a implementação de um processador personalizado que será utilizado em um relógio com as seguintes características:</p>
