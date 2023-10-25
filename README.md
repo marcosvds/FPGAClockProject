@@ -12,7 +12,7 @@
 
 <h3>Professores:</h3> 
 <ul>
-  <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/paulo-carlos-ferreira-dos-santos/>Paulo Carlos Ferreira dos Santos</a></li
+  <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/paulo-carlos-ferreira-dos-santos/>Paulo Carlos Ferreira dos Santos</a></li>
 </ul>
 
 <!DOCTYPE html>
