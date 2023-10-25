@@ -27,9 +27,6 @@
     <li>Avaliação final realizada na placa FPGA.</li>
 </ul>
 
-<h2>Execução</h2>
-<p>Realizado em grupos de no máximo dois alunos.</p>
-
 <h2>Características do Processador</h2>
 <ul>
     <li>Arquitetura Harvard.</li>
