@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity LogicaDesvio is
+  port ( jeq         :   in std_logic;
+			jmp         :   in std_logic;
+			jsr         :   in  STD_LOGIC;
+		   ret         :   in  STD_LOGIC;
+			flag_igual  :   in std_logic;
+         muxPC       :   out std_logic_vector (1 downto 0)
+  );
+end entity;
+
+architecture comportamento of LogicaDesvio is
+	
+  signal bit0 : std_logic;
+  signal bit1 : std_logic;
+	
+  begin
+  
+  bit0 <= jsr OR jmp OR (flag_igual AND jeq);
+  bit1 <= ret;
+  muxPC <= bit1 & bit0;
+
+  end architecture;
