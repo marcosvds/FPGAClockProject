@@ -15,7 +15,12 @@
   <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/paulo-carlos-ferreira-dos-santos/>Paulo Carlos Ferreira dos Santos</a></li>
 </ul>
 
+## Acompanhamento do Projeto
+
+Aqui está o link para o documento que detalha o progresso e as tarefas relacionadas ao nosso projeto. Este documento serve como uma ferramenta de acompanhamento para garantir que todas as etapas do projeto sejam concluídas de forma eficaz e eficiente.
+
 [Acompanhamento de Tarefas](https://docs.google.com/document/d/1tQu284zb4H75BPVvmHYvKxLIM0q2ro0aXAdbX-oSKcw/edit?usp=sharing)
+
 
 <h2>Descrição</h2>
 <p>O projeto visa a implementação de um processador personalizado que será utilizado em um relógio com as seguintes características:</p>
