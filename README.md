@@ -15,29 +15,6 @@
   <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/paulo-carlos-ferreira-dos-santos/>Paulo Carlos Ferreira dos Santos</a></li>
 </ul>
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto 1: Relógio Utilizando um Processador Personalizado</title>
-    <style>
-        /* Estilos básicos para melhorar a visualização */
-        body {
-            font-family: Arial, sans-serif;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul, ol {
-            margin-left: 20px;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Projeto 1: Relógio Utilizando um Processador Personalizado</h1>
 
 <h2>Descrição</h2>
